@@ -14,6 +14,11 @@ namespace DummyProjectOnGitHub.Controllers
             return View();
         }
 
+        public string Result()
+        {
+            return "Ahmad";
+        }
+
         // GET: gg/Details/5
         public ActionResult Details(int id)
         {
