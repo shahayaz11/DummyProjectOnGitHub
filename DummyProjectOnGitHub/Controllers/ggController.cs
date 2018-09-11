@@ -16,7 +16,7 @@ namespace DummyProjectOnGitHub.Controllers
 
         public string Result()
         {
-            return "Ahmad";
+            return "Ahmad raza";
         }
 
         // GET: gg/Details/5
